@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Belajar Bahasa Inggris Mudah",
+    "slug": "belajar-bahasa-inggris-mudah",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.belajarbahasainggrismudah.app"
+    }
+  }
+}
